@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arvindacharya
 - 👀 I’m interested in knowing everything there is about technology
-- 🌱 I’m currently learning Back end development
-- 💞️ I’m looking to collaborate on Front-End development
+- 🌱 I’m currently learning Back end
+- 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me - arvindacharya2000@gmail.com
 
 <!---
